@@ -5,7 +5,8 @@
 </h3>
 
 <p align="center">
-  Building enterprise-grade AI applications with Spring Boot, RAG, LangChain4j, MCP, Vector Databases & LLMs.
+  Building scalable backend systems, microservices and enterprise-grade applications
+  with Java, Spring Boot and modern distributed technologies.
 </p>
 
 <p align="center">
@@ -13,10 +14,7 @@
     <img src="https://komarev.com/ghpvc/?username=cws31&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
   <a href="https://github.com/cws31?tab=followers">
-    <img src="https://img.shields.io/github/followers/cws31?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/cws31?tab=repositories">
-    <img src="https://img.shields.io/github/stars/cws31?label=Total%20Stars&style=flat" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/followers/cws31?label=Followers&style=flat" alt="Followers"/>
   </a>
 </p>
 
@@ -24,46 +22,36 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **enterprise-grade backend and AI applications**
-- ☕ Specializing in **Java & Spring Boot**
-- 🤖 Exploring **Generative AI and LLM applications**
-- 🧠 Working with **RAG, LangChain4j, MCP & Vector Databases**
-- 🏗️ Building **Microservices-based applications**
-- 🚀 Interested in scalable backend architectures and AI-powered systems
-- 🌱 Continuously learning and improving my software engineering skills
-- 💬 Ask me about **Java, Spring Boot, REST APIs, Microservices, RAG & AI**
+- ☕ Java Backend Developer focused on **Spring Boot & scalable REST APIs**
+- 🏗️ Building **Microservices & Distributed Systems**
+- 🚀 Experienced with **Spring Cloud, API Gateway, Eureka & OpenFeign**
+- 📨 Working with **Apache Kafka & Event-Driven Architecture**
+- 🔐 Building secure APIs using **Spring Security & JWT**
+- ⚡ Exploring **Redis caching & fault-tolerant systems**
+- 🤖 Currently progressing toward **AI Engineering**
+- 🧠 Exploring **LLMs, RAG, LangChain4j, MCP & AI-powered applications**
+- 🧪 Focused on clean code, testing and production-ready backend engineering
+- 🎯 Solved **60+ algorithmic problems on LeetCode**
+- 🏆 1st Place in a university-level **VCode Hackathon**
 - 📫 Reach me at **gautamrocky909621@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
-</p>
-
-### 🚀 Backend & Frameworks
+### ☕ Java & Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
 </p>
-
-### 🤖 AI / Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**AI Technologies**
 
 ```text
-LLMs
-RAG
-LangChain4j
-MCP
-Vector Databases
-Embeddings
-AI Agents
-Prompt Engineering
+Java 21
+Core Java
+Advanced Java
+OOP
+Data Structures & Algorithms
+Spring Boot
+Spring MVC
+RESTful Web Services
+DTO-based API Contracts
