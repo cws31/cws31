@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sonu-kumar-9a59b52a4/">LinkedIn</a> ·
-  <a href="https://x.com/sonuthiryt1">X (Twitter)</a> ·
+  <a href="[https://x.com/sonuthiryt1"](https://x.com/ursonuthirty1)>X (Twitter)</a> ·
   <a href="mailto:gautamrocky909621@gmail.com">Email</a>
 </p>
 
