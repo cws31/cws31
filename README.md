@@ -37,7 +37,7 @@ I'm a software engineer whose strongest area is Java and Spring Boot backend dev
 | Area | Technologies |
 |---|---|
 | Languages | Python, SQL, JavaScript (add TypeScript, Go or others you use) |
-| Frontend | React | Angular
+| Frontend | React | Angular |
 | AI | LLMs, RAG, LangChain4j, MCP, vector databases |
 | Delivery | Docker, Git, GitHub |
 
