@@ -1,7 +1,7 @@
 <h1 align="center">Sonu Kumar | Software Engineer</h1>
 
 <p align="center">
-  Java Backend Developer · Full-Stack · Distributed Systems · AI Integration<br>
+  Software Developer · Full-Stack · Distributed Systems · AI Integration<br>
   Available for freelance and contract work
 </p>
 
