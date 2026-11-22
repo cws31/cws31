@@ -59,7 +59,7 @@ My approach to a new stack is to learn the fundamentals, follow its conventions,
 
 | Project | What it is | Technologies |
 |---|---|---|
-| [StockPlus]([https://github.com/YOUR_USERNAME/REPO_NAME](https://github.com/cws31/stockpulse)) | Event-driven microservices platform for ecomers Stock | Java, Spring Boot, Kafka, Spring Cloud |
+| [StockPlus](https://github.com/cws31/stockpulse) | Event-driven microservices platform for ecomers Stock | Java, Spring Boot, Kafka, Spring Cloud |
 | [Saitring-Employee-manager]([https://github.com/YOUR_USERNAME/REPO_NAME](https://github.com/cws31/saitring-employee-manager-aap)) | A multi tanet application which allow saitring owner to manager their employee from a single workspacr| Java, Spring Boot, React |
 | [Workout Tracker API](https://github.com/YOUR_USERNAME/REPO_NAME) | Secure REST API for workout tracking with authentication | Java, Spring Boot, JWT, JPA |
 
